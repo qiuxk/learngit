@@ -7,3 +7,4 @@ hello word
 hello
 world
 测试撤销功能
+老板是个傻瓜
